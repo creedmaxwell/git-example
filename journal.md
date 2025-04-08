@@ -21,3 +21,16 @@
 
 2.24.25
 	-	Killed my algorithms midterm but forgot to submit the take-home part oops!
+
+3.19.25
+	-	C++ exam was easy. Learned from my mistakes last time.
+	
+3.26.25
+	-	Getting the hang of software development. Getting the jobs I need to work on done.
+
+4.4.25
+	-	Flight was delayed for forever and I got back to my dorm at like 1 am the night before my algorithms midterm
+		but it doesn't matter because I killed it anyway.
+
+4.8.25
+	-	Revving up for finals! I've pulled off miracles before I can do it again.
